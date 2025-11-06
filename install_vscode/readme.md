@@ -1,4 +1,7 @@
 # Sandbox Configuration 01
+[Set RAM to 8GB](#sets-ram-to-8gb)<br/>
+[Map Folders](#maps-sandbox-folders-to-local-host-folders)<br/>
+[Download and Install VSCode](#download-and-install-vscode)<br/>
 
 ## Sets RAM to 8GB
 ```xml
@@ -44,7 +47,7 @@
 </MappedFolders> 
 ```
 
-## Downloads and installs VSCode
+## Download and install VSCode
 
 ### Batch file to download and install VSCode on Sandbox
 
