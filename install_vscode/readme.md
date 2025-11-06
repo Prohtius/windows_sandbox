@@ -67,7 +67,7 @@ C:\tmp\vscode.exe /verysilent /suppressmsgboxes
 ```
 
 ### WSB File XML
-[CMD file](install_vscode.cmd)
+[Open CMD file](install_vscode.cmd)
 > [!NOTE]
 > Uses the sandbox folder structure
 
