@@ -1,0 +1,23 @@
+<Configuration>
+    <vGPU>
+        Disable
+    </vGPU>
+    <MemoryInMB>
+        8192
+    </MemoryInMB>    
+    <MappedFolders>    
+        <MappedFolder>
+            <HostFolder>C:\tmp\sandbox\sandbox_scripts</HostFolder>
+            <SandboxFolder>C:\tmp\sandbox</SandboxFolder>
+            <ReadOnly>True</ReadOnly>
+        </MappedFolder>
+         <MappedFolder>
+            <HostFolder>C:\tmp\sandbox\coding_projects</HostFolder>
+            <SandboxFolder>C:\tmp\projects</SandboxFolder>
+            <ReadOnly>False</ReadOnly>
+        </MappedFolder>
+    </MappedFolders>    
+    <LogonCommand>
+        <Command>C:\tmp\sandbox\vscode_install.cmd</Command>
+    </LogonCommand>
+</Configuration>
